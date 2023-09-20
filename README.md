@@ -26,7 +26,8 @@ I would like to thank Dr. Angela Yu.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](![Caeser](https://github.com/Sookchand/Caesar-Cipher/assets/34344439/fc9b6449-664e-4a7b-b168-feecb9aec32f)
+)
 
 
 ## Tech Stack
